@@ -2,53 +2,12 @@
   "data": {
     "control": {
       "shenhe": "1",
-      "name1":"【网盘资源】",
-      "name2":"请复制链接和提取码",
-      "name3":"★☆★☆★☆★☆★资源失效请联系部长VX：xiaoqizju"
-    },
+      "name1":"【游戏攻略】",
+      "name2":"请复制游戏攻略",
+      "name3":"zz"
+    }
 
-    "edit": [{
-        "xcx_title": "豆瓣评分",
-        "xcx_des": "豆瓣电影评分、剧情、演员介绍",
-        "xcx_img": "http://tva1.sinaimg.cn/large/0060lm7Tly1g5ygzwsncuj30b40b4t8l.jpg",
-        "xcx_appid": "wx2f9b06c1de1ccfca",
-        "xcx_url": "pages/index/index"
-      },
-
-
-      {
-        "xcx_title": "全网影视剧在线观看",
-        "xcx_des": "99%的电影、电视剧、伦理片在线看",
-        "xcx_img": "http://tva1.sinaimg.cn/large/0060lm7Tly1g5ygpsl1org30dw08c114.gif",
-        "xcx_appid": "wx82d934c1bc5dc80a",
-        "xcx_url": "sg_movie/pages/index/index"
-      },
-
-      {
-        "xcx_title": "热映电影网盘分享",
-        "xcx_des": "哪吒、烈火英雄、寄生虫等网盘资源",
-        "xcx_img": "http://tva1.sinaimg.cn/large/0060lm7Tly1g5ygwstt1ij30e80e8glm.jpg",
-        "xcx_appid": "wx7f370af4bf9cffbc",
-        "xcx_url": "pages/index/index"
-      },
-
-      {
-        "xcx_title": "18禁深夜福丽",
-        "xcx_des": "肉蒲团、妈妈的朋友等福丽资源",
-        "xcx_img": "http://tva1.sinaimg.cn/large/0060lm7Tly1g5ygy3vcbog309q082az7.gif",
-        "xcx_appid": "wx0367d19c7cb40d22",
-        "xcx_url": "pages/hot/hot"
-      },
-
-      {
-        "xcx_title": "垃圾分类指南",
-        "xcx_des": "支持拍照自动识别垃圾类型",
-        "xcx_img": "http://tva1.sinaimg.cn/large/0060lm7Tly1g5ygx74vrwg30hs0goe81.gif",
-        "xcx_appid": "wx4b80be9f4222b1c8",
-        "xcx_url": "pages/index/index"
-      }
-
-    ]
+    
 
 
   }
