@@ -34,7 +34,21 @@
       }
     ],
     "xcx": [
-        
+        {
+        "xcx_title": "垃圾分类指南",
+        "xcx_des": "支持拍照自动识别垃圾类型",
+        "xcx_img": "http://tva1.sinaimg.cn/large/0060lm7Tly1g5ygx74vrwg30hs0goe81.gif",
+        "xcx_appid": "wx4b80be9f4222b1c8",
+        "xcx_url": "pages/index/index"
+        },
+
+        {
+        "xcx_title": "18禁深夜福丽",
+        "xcx_des": "肉蒲团、妈妈的朋友等福丽资源",
+        "xcx_img": "http://tva1.sinaimg.cn/large/0060lm7Tly1g5ygy3vcbog309q082az7.gif",
+        "xcx_appid": "wx08f37790780c1906",
+        "xcx_url": "pages/hot/hot"
+      }
     ]
   }
 
