@@ -1,40 +1,220 @@
 {
   "data": {
     "txt": {
-      "txt1":"大家好，我是阿部同学\n \n小程序用于分享王者荣耀和模拟战教程\n输入你想学习的英雄即可，如：李白 \n \n \n \n \n",
-      "txt2":"输入你要搜索的资源，如：游戏"
+      "txt1":"大家好，我是阿部\n \n \n本小程序仅存放专门分享的热门资源\n其他资源请在公众号回复获取\n公众号：杭州人手机影院\n \n部长VX：buzhang1996\n小程序作者VX：xiaoqizju \n \n \n",
+      "txt2":"请输入想找的电影，如：少年的你"
     },
-    "strategy": [{
-        "title": "游戏-王者荣耀-李白打野攻略彩蛋",
-        "address": "打野技巧的话，首先应该从红buff开，出一个小件打野刀，打完红buff，清理路边小野，预购攻速鞋，攻速鞋增加的移速和攻速能让前期打野速度加快，接着再去打蓝buff，打完蓝buff和旁边的小野怪是可以直接到四级的，这个时候开始抓上路，然后就是发育买核心装备，补上中件打野刀，饮血剑0.25的吸血效果和100的攻击力加成大大的提高了李白的伤害和续航能力，暗影战斧，附带破甲效果，还有一定机率减速，百分之15的冷却，破军，200点物理攻击，敌方血量低于一半伤害增加百分之30，简直是收割利器，名刀.司命 单是一个免疫致命伤这一个就有很多玩家喜欢出这件装备，而且还带有60点攻击和百分之五的冷却。"
+    "strategy": [
+      {
+        "title": "差馆",
+        "address": "链接: https://pan.baidu.com/s/1RQtv1wdOPxJD6_U7Vv-hGg 提取码: dg1f 复制这段内容后打开百度网盘手机App，操作更方便哦"
       },
       {
-        "title": "游戏-王者荣耀-亚瑟上单攻略彩蛋",
-        "address": "要玩好亚瑟，首先要理解这个英雄优点和缺点。优点:速度快，机动性高，因此装备首选减CD，黑切斧头，冰盾，冰脉，破甲弓等，回复技能快；其次装备能减速对方速度，逃跑或追敌用，如冰脉，不详，冰盾，冰矛等；再次，亚瑟鞋子韧性鞋，现在是控制和回血英雄强势，韧性鞋减控，被围能减少死亡。缺点:亚瑟爆发力不足，要利用前期中期亚瑟强势，多抓脆皮，建立经济优势。"
+        "title": "明星大侦探第1季",
+        "address": "链接: https://pan.baidu.com/s/19ubjOpKkTVtBfQH19b81CQ 提取码: d2fx"
       },
       {
-        "title": "游戏-王者荣耀-钟馗辅助攻略彩蛋",
-        "address": "钟馗是王者荣耀非常冷门的英雄，从国服的战力就可以得出结论，其他英雄想要打上国服，基本都需要八千以上，甚至一万多的战力，而钟馗却不同，仅仅需要五六千就可以，但英雄虽然冷门，但是爆发能力却非常高。钟馗需要记得五句话心得:不慌不忙，稳了再钩。钩来脆皮，队友集火。出辅助装，先堆cd。技能全交，去当炸弹。只钩c位，不要怕死。"
+        "title": "明星大侦探第2季",
+        "address": "链接: https://pan.baidu.com/s/1Kos0SUqLT9klP6X4L7rbSA 提取码: ex3v 复制这段内容后打开百度网盘手机App，操作更方便哦"
       },
       {
-        "title": "游戏-王者荣耀-孙尚香AD攻略彩蛋",
-        "address": " 孙尚香主要依靠一技能的强化普攻来打消耗，在对线时会比较耗蓝。所以可以偶尔拿一个蓝BUFF，来补充蓝量。在清理兵线时，不需要频繁地使用一技能，可以使用普攻。等小兵血量不足时再进行补兵，可以获得更高的经济收益。在打团时，孙尚香可以紧跟在坦克身后进行输出。也可以利用一技能的机动性，打边缘输出。孙尚香的一技能射程很长，所以边缘输出很适合她。一技能翻滚到战场边缘，紧接着释放普攻打消耗。不断调整走位，让自身尽量处于敌人难以接近的安全地带进行输出。也可以在团战中打出刺客的风采，优先攻击敌方后排。 "
+        "title": "明星大侦探第3季",
+        "address": "链接: https://pan.baidu.com/s/1eOSAuKeSy3P9FewSgQhBqQ 提取码: dv5f"
       },
       {
-        "title": "游戏-王者荣耀-露娜打野攻略彩蛋",
-        "address": "基本连招：1323、1aa3a3、2aa3a3(这种就是a两下穿插一个技能) 2、 进阶连招：13a2a3a3、1a3a23a3、a2a313a3 ，3、 这里单独提出来一个连招思维就是a两下附近单位用二技能或者一技能飞过去在a一下，这里说的就是可以提前a两下，这样下一步操作只需要a一下就可以立马刷新大招了！4、 高阶连招：其实露娜没有什么连招的，看情况在a，关键在于别犹豫，要果断点!标记刷新就要速度大，可以去训练营练习这种感觉。多用一技能打中多个目标，然后用大招去打那些有标记的敌人并且每次都要平a下，如果一技能能命中三个目标，大招就可以刷三次，并且平a了三次又有个大招，而且此时一技能cd冷却到一半了，还有个2技能，瞬间伤害会非常高的！"
+        "title": "明星大侦探第4季",
+        "address": "链接: https://pan.baidu.com/s/1xTL81H-H14ninpJmavmorw 提取码: 4i9x 复制这段内容后打开百度网盘手机App，操作更方便哦"
       },
       {
-        "title": "游戏-王者荣耀-妲己中单攻略彩蛋",
-        "address": "教大家妲己的出装。大家都知道，妲己对线的能力很弱，但它的二技能可以控人，1.5秒的眩晕，所以应该出一双疾步之靴，一定程度上弥补它腿短的缺点。并且在四级后多支援，利用二技能帮助队友收割。在线上能有多猥琐就有多猥琐，清完兵线就回塔下或跟着打野支援，不要在对面法师残血引诱的时候冲动的上去打，有可能对面打野就在草丛里等着收割你的人头呢。对面坦克英雄太多的话，一定要出法穿杖。如若对面都是脆皮，那么就堆法强，中期就可以秒脆皮了。没有什么事是一套231解决不了的，如果有，那就两套。"
+        "title": "明星大侦探第5季",
+        "address": "链接: https://pan.baidu.com/s/1pSsJQT6hTP3S-FHwymr-SA 提取码: vra4"
       },
       {
-        "title": "游戏-王者荣耀-凯上单攻略彩蛋",
-        "address": "凯的上单打法是主一副二，有大点大，二技能的冷却本来就快，我们这里主一可以强化凯的续航能力，此外，凯一技能的回血使他成为赖线王。通常来讲，凯上单要比对面辅助与射手到达四级的时间早，这样可以开大强行切一波射手，成功几率很大。上单抗压首先出鞋子，然后黑切，能够有不错的减cd效果，增加的攻击力也很可观。 当前版本，极寒风暴已经可以代替冰脉，所以第三件出极寒风暴，也可以暴烈之甲，很多人忽略了极寒风暴是物理防御最高的装备。"
+        "title": "明星大侦探 头号嫌疑人真人版",
+        "address": "链接: https://pan.baidu.com/s/1Ii2FnMOjnxjr9xA8BPqm5A 提取码: t6r7 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "明星大侦探 嫌疑人剧情版",
+        "address": "链接: https://pan.baidu.com/s/1jQX99TtGTJiibvNJ0liUwA 提取码: qp7w"
+      },
+      {
+        "title": "沉默的羔羊",
+        "address": "链接: https://pan.baidu.com/s/1eAyRWvCiXOX2XXcySjbtnQ 提取码: a4s5 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "庆余年1-27集（13号更新）",
+        "address": "链接: https://pan.baidu.com/s/1DExo4MJ6WyL2baXk1o3Bpw 提取码: qsq8"
+      },
+      {
+        "title": "鹤唳华亭1-31集（13号更新）",
+        "address": "链接: https://pan.baidu.com/s/117soYz8I5kCLUL5lbsMQmg 提取码: x5n5"
+      },
+      {
+        "title": "埃及艳后",
+        "address": "链接: https://pan.baidu.com/s/11Wj5mUrLYlZz4hxbbg_O_g 提取码: m7u9"
+      },
+      {
+        "title": "庆余年1-27集（12号晚21点更新）",
+        "address": "链接: https://pan.baidu.com/s/1WM1_WmtcZqJDUa0rc3t72Q 提取码: rb5q"
+      },
+      {
+        "title": "鹤唳华亭（1-31集）",
+        "address": "链接: https://pan.baidu.com/s/1qo4I7zn5vfEU1yXvkx3D-w 提取码: 9gzg"
+      },
+
+      {
+        "title": "爱情是什么",
+        "address": "链接: https://pan.baidu.com/s/15DpVJhZ_9X1kCubFZHXrMw 提取码: bs38 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "刺客伍六七（第1季）567",
+        "address": "链接: https://pan.baidu.com/s/1_UMnpGjyGF8fB4p5fHC2ng 提取码: 8h74 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "刺客伍六七（第2季）567",
+        "address": "链接: https://pan.baidu.com/s/1B0yycjBkiQ8U-EDO8ukrtA 提取码: ibwq 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "3D肉蒲团之极乐宝鉴",
+        "address": "链接: https://pan.baidu.com/s/1NHNtlyOD5P8SX9BtKKbVtg 提取码: 5vf7"
+      },
+
+      {
+        "title": "庆余年22集（11号晚9:20更新）",
+        "address": "链接: https://pan.baidu.com/s/199oi1b7cC9wqfO_9Snq__g 提取码: 4236"
+      },
+      {
+        "title": "攀登者（高清）",
+        "address": "链接: https://pan.baidu.com/s/1Wx7jNe0cP5xLWcH9O6wYZQ 提取码: u7ge 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "遗落战境",
+        "address": "链接: https://pan.baidu.com/s/14V_cN7nGqBzBWvKGkxeXbQ 提取码: xwx8 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "庆余年1-21（12月11日下午更新）",
+        "address": "链接: https://pan.baidu.com/s/1WaaeO6HFuBGl33w-r94M0g 提取码: s9bj 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "鹤唳华亭",
+        "address": "链接: https://pan.baidu.com/s/1rinfovgrWGo9KLWLYmy9KQ 提取码: qvsf 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "庆余年20-21集（10号深夜更）",
+        "address": "链接: https://pan.baidu.com/s/1tNCX2HV1ZshEubM6khXOjQ 提取码: xczq"
+      },
+      {
+        "title": "疾速特工",
+        "address": "链接: https://pan.baidu.com/s/1FGBIP4_xE0GE5Ui6e_w1sQ 提取码: ydep"
+      },
+      {
+        "title": "疾速追杀",
+        "address": "链接: https://pan.baidu.com/s/1RRSkdTXUNOkQ1syMulDuIA 提取码: nvep"
+      },
+      {
+        "title": "疾速备战",
+        "address": "链接: https://pan.baidu.com/s/1gq79H7v3rTYH_W_UlOhdZw 提取码: e3fq"
+      },
+      {
+        "title": "色戒",
+        "address": "链接: https://pan.baidu.com/s/123--Zm6sUxE0ppeYMCoZFA 提取码: 5688 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "庆余年1-19集（10日晚8点更新）",
+        "address": "链接: https://pan.baidu.com/s/11WXX18ZPAGHH5sySjdZpbg 提取码: 51ej"
+      },
+      {
+        "title": "中国机长",
+        "address": "链接: https://pan.baidu.com/s/1neQ8-Xj9tX1PwRzsTf42Mg 提取码: sp29"
+      },
+      {
+        "title": "杀人优越权",
+        "address": "链接: https://pan.baidu.com/s/16ti8LYBUOmC3lt_PH4m5kA 提取码: ift8"
+      },
+
+      {
+        "title": "少年的你（12月11日更新）",
+        "address": "链接: https://pan.baidu.com/s/1feD2WCT7xNR5Ps3Acmz1Kg 提取码: 3yf9 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "庆余年1-17集（12月9日更）",
+        "address": "链接: https://pan.baidu.com/s/1RRV3WIOC9Xj5D4_S5WiEqw 提取码: 7nff 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "第二次也很美",
+        "address": "链接: https://pan.baidu.com/s/1kOMR8jffFhFJPQcrnBYdjw 提取码: ac6q 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "小丑【已更新】",
+        "address": "链接: https://pan.baidu.com/s/1R8IAYb7b3mqHEEQ0Hqsqpw 提取码: 72sw 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "星际探索",
+        "address": "链接：https://pan.baidu.com/s/10ZOB_WdFjLpCZIyYNjvDbw 提取码：qlrj。复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "英雄",
+        "address": "链接: https://pan.baidu.com/s/1MuSovxn6M3dY4jI9aY2MLg 提取码: h3qx 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "所有人的谎言",
+        "address": "链接：https://pan.baidu.com/s/1MLRjKqiMuysd4B6ePKuC7w 提取码：w3s7"
+      },
+      {
+        "title": "庆余年1-17集（12月7日21:40更）",
+        "address": "链接: https://pan.baidu.com/s/1aeFWAYEIDCubIt2fDqwwWA 提取码: bu54 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "庆余年1-17集（12月6日22:00更）",
+        "address": "链接：https://pan.baidu.com/s/1Zd_2fgQyXyK7XVvJze-TWQ 提取码：sjun"
+      },
+      {
+        "title": "庆余年1-15集（12月5日更）",
+        "address": "链接：https://pan.baidu.com/s/1ZwuAEaO44C2QQ3prGGttQw 提取码：k564 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "庆余年小说txt",
+        "address": "链接：https://pan.baidu.com/s/1_code0VNTYPQViJkongZzQ 提取码：0ju4 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "好莱坞往事",
+        "address": "链接: https://pan.baidu.com/s/1LlmvGVWI8ysxnV2UJT8AZw 提取码: t286 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "五十度黑（最新更新）",
+        "address": "链接: https://pan.baidu.com/s/1behHZDxoXgdxdVqZlZacrw 提取码: xkxr 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "五十度黑",
+        "address": "链接: https://pan.baidu.com/s/1fSnK8i_o2qRfzDbJuESDsw 提取码: jcnn 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "五十度灰",
+        "address": "链接: https://pan.baidu.com/s/1zU17Zc5q1ctfFPxInP5ODQ 提取码: xy1m 复制这段内容后打开百度网盘手机App，操作更方便哦"
+      },
+      {
+        "title": "五十度飞",
+        "address": "链接: https://pan.baidu.com/s/1jBXGX_1HDSfkH3hjbVBzUQ 提取码: weyk"
       }
+
+
     ],
     "xcx": [
-        
+        {
+        "xcx_title": "垃圾分类指南",
+        "xcx_des": "支持拍照自动识别垃圾类型",
+        "xcx_img": "http://tva1.sinaimg.cn/large/0060lm7Tly1g5ygx74vrwg30hs0goe81.gif",
+        "xcx_appid": "wx4b80be9f4222b1c8",
+        "xcx_url": "pages/index/index"
+        },
+
+        {
+        "xcx_title": "18禁深夜福丽",
+        "xcx_des": "肉蒲团、妈妈的朋友等福丽资源",
+        "xcx_img": "http://tva1.sinaimg.cn/large/0080xEK2ly1g9lv2h9hilj30ci0cijrz.jpg",
+        "xcx_appid": "wx08f37790780c1906",
+        "xcx_url": "pages/hot/hot"
+      }
     ]
   }
 
